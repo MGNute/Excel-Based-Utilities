@@ -14,6 +14,8 @@ Blue scale would have three pivot points). Create the
 scale visually; the file will fill in the gaps and 
 generate R code to create a vector of the colors.
 
+See example in "Wireframe Graph with Custom Color Palette.R"
+
 
 *******************************************************
 Full Year Calendar Generator.xlsx
